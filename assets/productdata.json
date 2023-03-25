@@ -1,0 +1,25 @@
+[
+   
+    {
+       "pId":101,
+       "pName":"Samsung Mobile",
+       "pPrice":20000,
+       "pImage":"assets/phone.jpeg",
+       "pDate":"2023/02/21"
+     },
+     {
+      "pId":102,
+      "pName":"Samsung Mobile",
+      "pPrice":20000,
+      "pImage":"assets/phone.jpeg",
+      "pDate":"2023/02/21"
+     },
+     {
+      "pId":103,
+      "pName":"Samsung Mobile",
+      "pPrice":20000,
+      "pImage":"assets/phone.jpeg",
+      "pDate":"2023/02/21"
+     }
+ 
+   ]
