@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "studName": "Anju",
+      "studTime": "Regular",
+      "studCourse": "angular",
+      "id": 1
+    }
+  ]
+}
